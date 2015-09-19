@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Calc</string>
+    <string name="hello_world">RESULT</string>
+    <string name="action_settings">Settings</string>
+    <string name="equal_sign">=</string>
+    <string name="zero">0</string>
+    <string name="decimal">.</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="cancel_label">C</string>
+    <string name="divide_label">/</string>
+    <string name="product_label">X</string>
+    <string name="seven_label">7</string>
+    <string name="eight_label">8</string>
+    <string name="nine_label">9</string>
+    <string name="add_label">+</string>
+    <string name="four_label">4</string>
+    <string name="five_label">5</string>
+    <string name="six_label">6</string>
+    <string name="subtr_label">-</string>
+    <string name="one_label">1</string>
+
+</resources>
